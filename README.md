@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckkoh
-- 👀 I’m interested in data visualation
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in data visualation and machine learning
+- 🌱 I’m currently learning Context Engineering
 - 📫 Do drop me a message to reach out to me. 
 
 <!---
